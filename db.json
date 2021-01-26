@@ -1,0 +1,60 @@
+{
+  "hashtags" : [
+    "Corona_virus",
+    "Defkan",
+    "Udemy",
+    "Air_polution",
+    "Global_warming"
+],
+
+"tweets" : [
+  {   "sender" : {
+          "name" : "netflix",
+          "id" : "@netflix",
+          "img" : "/images/netflix50.png"
+      },
+      "text" : "this is my tweet" ,
+      "like" : 5        
+  },
+  {   "sender" : {
+          "name" : "instagram",
+          "id" : "@instagram",
+          "img" : "/images/instagram50.png"
+      },
+      "text" : "this is my tweet",
+      "like" : 5    
+  },
+  {   "sender" : {
+      "name" : "github",
+      "id" : "@github",
+      "img" : "/images/Octocat55.png"
+  },
+      "text" : "this is my tweet" ,
+      "like" : 14        
+  },
+  {   "sender" : {
+      "name" : "microsoft",
+      "id" : "@microsoft",
+      "img" : "/images/microsoft50.png"
+    },
+      "text" : "this is my tweet",
+      "like" : 74     
+  }
+],
+
+"acountData" : [
+  {   "name" : "netflix",
+      "id" : "@netflix",
+      "img" : "/images/netflix50.png"
+  },
+  {   "name" : "github",
+      "id" : "@github",
+      "img" : "/images/Octocat55.png"
+  },
+  {   "name" : "microsoft",
+      "id" : "@microsoft",
+      "img" : "/images/microsoft50.png"
+  }   
+]
+
+}
